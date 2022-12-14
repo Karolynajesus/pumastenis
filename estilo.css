@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: rgb(243, 30, 30);
+}
+header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    font-size: 30px;
+}
+
+.imagem{
+    width: 800px;
+    height: 510px;
+    margin: 50px;
+    display: block;
+}
+footer{
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    background-color: rgb(211, 23, 111);
+    text-align: center;
+    padding: 10px 0;
+
+}
